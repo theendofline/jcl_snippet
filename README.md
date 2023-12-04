@@ -1,5 +1,5 @@
 # jcl_snippet
-Here is the snippet of JCL (Job Control Language of IBM's mainframe OS - z/OS)
+Here is the snippet of JCL (Job Control Language of IBM's mainframe OS - z/OS).
 Read about JCL [here](https://en.wikipedia.org/wiki/Job_Control_Language) and on [IBM official resources](https://www.ibm.com/docs/en/zos-basic-skills?topic=sdsf-what-is-jcl)
 
 ## Overview
