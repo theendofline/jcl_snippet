@@ -1,9 +1,9 @@
 # jcl_snippet
 Here is the snippet of JCL (Job Control Language of IBM's mainframe OS - z/OS)
-Read about JCL [here]([url](https://en.wikipedia.org/wiki/Job_Control_Language)) and on [IBM official resources]([url](https://www.ibm.com/docs/en/zos-basic-skills?topic=sdsf-what-is-jcl))
+Read about JCL [here](https://en.wikipedia.org/wiki/Job_Control_Language) and on [IBM official resources](https://www.ibm.com/docs/en/zos-basic-skills?topic=sdsf-what-is-jcl)
 
 ## Overview
- The program's primary function is to read first and last names from separate files, combine them, and write the full names to an output file.
+ The program's primary function is to read first and last names from separate files, combine them and write the full names to an output file.
 
 ## Files in the Repository
 - `TTT.INPUT(FNAMES)`: Input file containing first names.
